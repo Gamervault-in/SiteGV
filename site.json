@@ -7,7 +7,7 @@
   "legalName": "GamerVault Private Limited",
 
   "_formEndpoint_help": "Paste a Formspree form URL here (looks like https://formspree.io/f/abcdwxyz). Leave empty and every form shows a clear 'prototype' notice instead of sending.",
-  "formEndpoint": "",
+  "https://formspree.io/f/xyeeewzy"",
 
   "_showDrafts_help": "true = draft articles are visible with a 'Draft' label. Set to false to hide all drafts from the public site.",
   "showDrafts": true,
