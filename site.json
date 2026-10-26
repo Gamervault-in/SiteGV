@@ -1,7 +1,7 @@
 {
   "_help": "Site-wide settings. Edit values, commit, and Vercel rebuilds the site automatically.",
   "name": "GamerVault",
-  "url": "https://gamervault.in",
+  "url": "https://www.gamervault.in",
   "email": "gamervaultbiz@gmail.com",
   "locations": ["Bengaluru, India", "London, United Kingdom"],
   "legalName": "GamerVault Private Limited",
