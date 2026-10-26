@@ -1,0 +1,29 @@
+{
+  "_help": "Site-wide settings. Edit values, commit, and Vercel rebuilds the site automatically.",
+  "name": "GamerVault",
+  "url": "https://gamervault.in",
+  "email": "gamervaultbiz@gmail.com",
+  "locations": ["Bengaluru, India", "London, United Kingdom"],
+  "legalName": "GamerVault Private Limited",
+
+  "_formEndpoint_help": "Paste a Formspree form URL here (looks like https://formspree.io/f/abcdwxyz). Leave empty and every form shows a clear 'prototype' notice instead of sending.",
+  "formEndpoint": "",
+
+  "_showDrafts_help": "true = draft articles are visible with a 'Draft' label. Set to false to hide all drafts from the public site.",
+  "showDrafts": true,
+
+  "inkling": {
+    "_help": "Inkling preview. When the game is ready: set status to 'Live', availability to 'Play now', and add playUrl (an H5 game URL) to embed it.",
+    "popupEnabled": true,
+    "name": "Inkling",
+    "format": "H5 Game",
+    "status": "In Development",
+    "statusBadge": "Work in progress",
+    "availability": "Not Yet Published",
+    "kicker": "Something is taking shape.",
+    "description": "We're working on Inkling, an H5 game currently under development at GamerVault. It's not live yet, but watch this space!",
+    "longDescription": "Inkling is a small, playful H5 game built around handwriting and self-discovery. It is being designed and tested at GamerVault and has not been released yet.",
+    "cover": "",
+    "playUrl": ""
+  }
+}

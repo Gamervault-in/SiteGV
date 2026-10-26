@@ -1,0 +1,109 @@
+{
+  "_help": "Game catalogue. Every entry with demo: true is SAMPLE content and is labelled 'Demo' on the site. Delete demo entries when real titles are signed. For a real game set demo: false and add an authorised playUrl or storeLinks. Fields: slug, title, genre (one of the categories), platforms, ageRating, origin, stage, published, featured, added (YYYY-MM-DD), short, description, cover (image path or empty for generated art), playUrl, storeLinks.",
+  "categories": ["Kids & Family", "Casual", "Puzzle", "Strategy", "Simulation", "Adventure", "Action", "Story & Romance", "Multiplayer"],
+  "games": [
+    {
+      "slug": "inkling",
+      "title": "Inkling",
+      "genre": "Casual",
+      "platforms": ["Web (H5)"],
+      "ageRating": "To be confirmed",
+      "origin": "India",
+      "stage": "In Development",
+      "published": false,
+      "demo": false,
+      "inkling": true,
+      "featured": true,
+      "added": "2026-10-24",
+      "short": "A small, playful H5 game in development at GamerVault.",
+      "description": "",
+      "cover": "",
+      "playUrl": "",
+      "storeLinks": []
+    },
+    {
+      "slug": "demo-tile-garden", "title": "Tile Garden", "genre": "Puzzle", "platforms": ["Android", "iOS", "Web (H5)"],
+      "ageRating": "3+", "origin": "Sample", "stage": "Sample entry", "published": false, "demo": true, "featured": true, "added": "2026-10-20",
+      "short": "Match calm, colourful tiles to grow a garden, one short level at a time.",
+      "description": "A sample listing that shows how a relaxing tile-matching game would be presented in the GamerVault catalogue: short sessions, gentle progression and offline-friendly play.",
+      "cover": "", "playUrl": "", "storeLinks": []
+    },
+    {
+      "slug": "demo-monsoon-market", "title": "Monsoon Market", "genre": "Simulation", "platforms": ["Android", "iOS"],
+      "ageRating": "7+", "origin": "Sample", "stage": "Sample entry", "published": false, "demo": true, "featured": true, "added": "2026-10-18",
+      "short": "Run a street-side stall through festival rush and sudden rain.",
+      "description": "A sample listing for a light management sim. It illustrates how a game with local settings, festivals and food could be described for Indian players.",
+      "cover": "", "playUrl": "", "storeLinks": []
+    },
+    {
+      "slug": "demo-sky-lanterns", "title": "Sky Lanterns", "genre": "Kids & Family", "platforms": ["Android", "Web (H5)"],
+      "ageRating": "3+", "origin": "Sample", "stage": "Sample entry", "published": false, "demo": true, "featured": false, "added": "2026-10-16",
+      "short": "Guide floating lanterns past friendly obstacles. No reading required.",
+      "description": "A sample listing for a family game designed for young children: simple taps, no text dependency and no ads aimed at kids.",
+      "cover": "", "playUrl": "", "storeLinks": []
+    },
+    {
+      "slug": "demo-fort-and-river", "title": "Fort and River", "genre": "Strategy", "platforms": ["Android", "iOS", "PC"],
+      "ageRating": "12+", "origin": "Sample", "stage": "Sample entry", "published": false, "demo": true, "featured": true, "added": "2026-10-14",
+      "short": "Build, defend and trade along a river kingdom in quick strategic rounds.",
+      "description": "A sample listing for a mid-core strategy game, showing how platform, age rating and region of origin appear on a game page.",
+      "cover": "", "playUrl": "", "storeLinks": []
+    },
+    {
+      "slug": "demo-lost-temple-run", "title": "Lost Temple Trail", "genre": "Adventure", "platforms": ["Android", "iOS"],
+      "ageRating": "7+", "origin": "Sample", "stage": "Sample entry", "published": false, "demo": true, "featured": false, "added": "2026-10-12",
+      "short": "Explore hand-drawn ruins and solve light environmental puzzles.",
+      "description": "A sample listing for an exploration game with short chapters suited to commute-length sessions.",
+      "cover": "", "playUrl": "", "storeLinks": []
+    },
+    {
+      "slug": "demo-neon-drift", "title": "Neon Drift", "genre": "Action", "platforms": ["Android", "iOS", "Web (H5)"],
+      "ageRating": "12+", "origin": "Sample", "stage": "Sample entry", "published": false, "demo": true, "featured": false, "added": "2026-10-10",
+      "short": "Fast one-thumb racing through glowing city streets.",
+      "description": "A sample listing for an arcade action game, used to show how action titles sit alongside casual and family games.",
+      "cover": "", "playUrl": "", "storeLinks": []
+    },
+    {
+      "slug": "demo-letters-from-goa", "title": "Letters from Goa", "genre": "Story & Romance", "platforms": ["Android", "iOS"],
+      "ageRating": "16+", "origin": "Sample", "stage": "Sample entry", "published": false, "demo": true, "featured": false, "added": "2026-10-08",
+      "short": "A choice-driven story about a summer, a café and an old friend.",
+      "description": "A sample listing for a narrative game with choices and episodes. It shows how age guidance is displayed for story and romance titles.",
+      "cover": "", "playUrl": "", "storeLinks": []
+    },
+    {
+      "slug": "demo-cricket-clash", "title": "Gully Clash", "genre": "Multiplayer", "platforms": ["Android", "iOS"],
+      "ageRating": "7+", "origin": "Sample", "stage": "Sample entry", "published": false, "demo": true, "featured": false, "added": "2026-10-06",
+      "short": "Two-minute street cricket matches against friends.",
+      "description": "A sample listing for a social multiplayer sports game with short real-time matches.",
+      "cover": "", "playUrl": "", "storeLinks": []
+    },
+    {
+      "slug": "demo-pocket-planets", "title": "Pocket Planets", "genre": "Casual", "platforms": ["Web (H5)", "Android"],
+      "ageRating": "3+", "origin": "Sample", "stage": "Sample entry", "published": false, "demo": true, "featured": false, "added": "2026-10-04",
+      "short": "Flick tiny planets into orbit in a one-tap physics toy.",
+      "description": "A sample listing for an instant-play casual game, the kind of title that suits browser portals and messaging platforms.",
+      "cover": "", "playUrl": "", "storeLinks": []
+    },
+    {
+      "slug": "demo-word-chai", "title": "Word Chai", "genre": "Puzzle", "platforms": ["Android", "iOS", "Web (H5)"],
+      "ageRating": "3+", "origin": "Sample", "stage": "Sample entry", "published": false, "demo": true, "featured": false, "added": "2026-10-02",
+      "short": "A daily word puzzle in English and Hindi, best with morning tea.",
+      "description": "A sample listing for a bilingual word game, illustrating how language support can be shown on a game page.",
+      "cover": "", "playUrl": "", "storeLinks": []
+    },
+    {
+      "slug": "demo-harbour-tycoon", "title": "Harbour Tycoon", "genre": "Simulation", "platforms": ["PC", "Android"],
+      "ageRating": "7+", "origin": "Sample", "stage": "Sample entry", "published": false, "demo": true, "featured": false, "added": "2026-09-30",
+      "short": "Grow a sleepy port into a busy trading hub.",
+      "description": "A sample listing for a tycoon-style simulation with long-term progression.",
+      "cover": "", "playUrl": "", "storeLinks": []
+    },
+    {
+      "slug": "demo-cloud-kingdoms", "title": "Cloud Kingdoms", "genre": "Strategy", "platforms": ["Android", "iOS"],
+      "ageRating": "12+", "origin": "Sample", "stage": "Sample entry", "published": false, "demo": true, "featured": false, "added": "2026-09-28",
+      "short": "Form alliances and claim floating islands in a season-based strategy game.",
+      "description": "A sample listing for a social strategy game with seasons and alliances.",
+      "cover": "", "playUrl": "", "storeLinks": []
+    }
+  ]
+}
